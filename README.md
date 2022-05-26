@@ -14,4 +14,4 @@
 
 ## 🔥 What I do
 
-<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nightcrawler7&layout=compact&hide=HTML'/>
+<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nightcrawler7&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite'/>
