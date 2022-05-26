@@ -11,3 +11,7 @@
 - 💼💼💼💼💼💼💼💼💼💼💼💼
 - 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
 - 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+## 🔥 What I do
+
+<img align='right' width='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nightcrawler7&layout=compact&hide=HTML'/>
