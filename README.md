@@ -3,4 +3,4 @@
 <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=nightcrawler7.nightcrawler7" /> 
 </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=nightcrawler7&theme=dark)
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=nightcrawler7&theme=dark" />
