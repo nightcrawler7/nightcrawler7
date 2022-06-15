@@ -5,8 +5,8 @@
 
 <img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=nightcrawler7&theme=dark" />
 
-- hihihi <a href='https://nightcrawler7.xyz'>nightcrawler7</a>
-- <a href='https://nightcrawler7.xyz'>nightcrawler7</a>this is my blog
+- hihihi <a href='[https://nightcrawler7.xyz](https://github.com/nightcrawler7)'>nightcrawler7</a>
+- <a href='[https://nightcrawler7.xyz](https://github.com/nightcrawler7)'>nightcrawler7</a>this is my blog
 - ✨✨✨✨✨✨✨✨✨✨✨✨
 - 💼💼💼💼💼💼💼💼💼💼💼💼
 - 🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯🎯
